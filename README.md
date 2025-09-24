@@ -1,4 +1,2 @@
-# Webpack5
-
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+# env
+![CI](https://github.com/<abidat77>/<git@github.com:abidat77/env.git>/actions/workflows/web.yml/badge.svg)
